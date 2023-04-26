@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Octogon
+  - Square
+  - Triangle
   layers:
   - Default
   - TransparentFX
@@ -14,9 +17,9 @@ TagManager:
   - Player
   - Ground
   - Grab
+  - Post Processing
   - 
-  - 
-  - 
+  - Grab Ignore Ray
   - 
   - 
   - 
